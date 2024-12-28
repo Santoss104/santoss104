@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Informatics Engineering student at the Islamic University of Riau with a solid foundation in algorithms and programming languages such as Java, JavaScript, PHP, Python, and Dart. My passion for robotics and IoT developed during my college years and continues to grow.<br><br>I am proficient in HTML, CSS, JavaScript, PHP, and NodeJS, and am currently expanding my skills in back-end and full-stack development, particularly with React, NextJS, and Flutter.
+Nothing.
 
 
 ## 🌐 Socials:
