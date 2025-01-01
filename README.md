@@ -12,9 +12,6 @@ Nothing.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santoss104&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoss104&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santoss104&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoss104&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
