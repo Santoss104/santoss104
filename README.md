@@ -1,5 +1,9 @@
 # 💫 About Me:
-Nothing.
+Hi there! 👋 I'm a passionate student at Universitas Islam Riau, eager to explore the world of technology and software development. I enjoy learning new programming skills, working on exciting projects, and collaborating with others in the tech community.
+
+I'm particularly interested in web development, mobile applications, and backend systems. Always open to new opportunities and challenges that help me grow as a developer.
+
+Let's connect and build something amazing together! 🚀
 
 
 ## 🌐 Socials:
